@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(174, 193, 201);
+}
+main{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    width: 90w;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
+h1{
+    background-color: rgb(53, 53, 177);
+    color: white;
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 2rem;
+    padding: 20px 10px;
+}
+.input-section{
+    width: 70%;
+}
+.input-silder{
+    width: 100%;
+    margin-top: 5px;
+}
+.output{
+    padding: 10px 5px;
+    border-radius: 999px ;
+    background-color: rgb(53, 53, 177);
+    color: white;
+    margin-top: 10px;
+
+}
+.output-section{
+    margin-top: 20px;
+}
